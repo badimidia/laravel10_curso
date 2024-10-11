@@ -36,7 +36,7 @@ class Handler extends ExceptionHandler
         'password_confirmation',
     ];
 
-    /**
+    /**  test
      * Register the exception handling callbacks for the application.
      */
     public function register(): void
